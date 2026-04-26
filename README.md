@@ -47,4 +47,4 @@ Aplikasi ini berjalan di atas tiga tabel utama dengan relasi *Constraint*:
 - **Backend Protection:** `password_hash`, `htmlspecialchars`, dan validasi ukuran file.
 
 ---
-**Catatan:** Proyek ini dikembangkan untuk memenuhi standar tugas Pemrograman Web dengan penekanan pada integrasi PHP-MySQL dan interaksi sisi klien yang responsif.
+**Catatan:** Proyek ini dikembangkan untuk memenuhi standar tugas Pemrograman Web dengan penekanan pada integrasi PHP-MySQL dan interaksi sisi klien yang responsif. Dibuat oleh Geraldy Putra Fazrian (110)
